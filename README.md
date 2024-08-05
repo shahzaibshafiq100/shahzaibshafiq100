@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahzaibshafiq100
+- 👋 Hi, I’m @Shahzaib Shafiq
 - 👀 I’m interested in MERN
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on MERN
